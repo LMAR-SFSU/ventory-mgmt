@@ -1,0 +1,5 @@
+# VSCode local settings folder
+.vscode/
+
+# MacOS metadata file
+.DS_Store
