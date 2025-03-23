@@ -1,1 +1,12 @@
-# Django files that should not go to Github repo
+# Virtual environment directory
+.venv/
+
+# MacOS metadata files
+.DS_Store
+
+# Byte-compiled/optimized/DLL files
+__pycache__/
+*.py[cod]
+
+# Django specific DB files
+db.sqlite3
